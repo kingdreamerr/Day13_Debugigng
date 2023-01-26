@@ -15,3 +15,6 @@
 ## Frequently run your code to check if it works
 > This is a life saver because it helps you to make sure the code you are writting is working perfectly don't wait to finish writting the program then running it. You might encounter many bugs this way and debugging them might be tiresome.
 #
+## Take a break
+> Rather than playing hide and seek with a stubborn bug/bugs get up take a walk, walk your dog or pet your cat or take a nap do something else besides looking at your code. Then come back later chances are no actually you will find that bug. 
+#
