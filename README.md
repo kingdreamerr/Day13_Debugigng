@@ -9,3 +9,9 @@
 ### Debugging:
 > As a new python developer one is destined to run into bugs as they write their code and it can be very frustrating when you write code and it does not run as you thought it would... Here i share some of the debugging tips and tricks I picked.
 #
+## seeking out bugs with a print()
+> When your code is not doing what you want it to do the print function comes in handy when you don't seem to understand what's going on
+#
+## Frequently run your code to check if it works
+> This is a life saver because it helps you to make sure the code you are writting is working perfectly don't wait to finish writting the program then running it. You might encounter many bugs this way and debugging them might be tiresome.
+#
