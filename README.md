@@ -18,3 +18,9 @@
 ## Take a break
 > Rather than playing hide and seek with a stubborn bug/bugs get up take a walk, walk your dog or pet your cat or take a nap do something else besides looking at your code. Then come back later chances are no actually you will find that bug. 
 #
+## Using a debugger:
+>Thony is a very good code IDE that helps to debug your code higly recomend it to my fellow newbies!  
+[click here to check it out](https://thonny.org/)  
+ Also check out [python tutor](https://pythontutor.com/) it is really helpful.
+
+## That's all I have for today 👋
